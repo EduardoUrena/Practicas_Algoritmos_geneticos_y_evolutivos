@@ -1,0 +1,5 @@
+En el .zip entregado se incluye la memoria y el código de los dos algoritmos implementados para 4 y 10 rotores:
+
+- "practica2AGE_1+1_EduardoUreña_100329937.py" se corresponde con el (1+1)-E 
+
+- "practica2AGE_EduardoUreña_100329937.py" se corresponde con el híbrido entre (𝜇 + λ)-EE y (𝜇, λ)-EE que arregla el problema de no encontrar el fitness 0.0 con 6 rotores, y de encontrarlo muy pocas veces con 4.
